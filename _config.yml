@@ -1,29 +1,41 @@
-name: THREEGON
-favicon: null
-layout_spectrum: 0.5094115699175745
-typography_spectrum: 0.5503642056137323
 title: OEM manufacturing
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.9405096862465143
+  brandStrength: 0.02282944018952549
+  lightness: 0.7249120306223631
+  brandColors:
+    - '#FEFEFE'
+    - '#384F7A'
+    - '#BCBDCF'
+    - '#6D7498'
+    - '#8A8DAB'
+  rhythmicContrast: 0.52226966409944
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: THREEGON
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#ffffff'
-    - '#000000'
-    - '#bcc9d9'
-    - '#7195af'
-    - '#484848'
-  brandStrength: 0.022829440189525485
-  lightness: 0.7249120306223631
-  saturation: 0.9405096862465143
-  rhythmicContrast: 0.52226966409944
-purpose: []
+typography_spectrum: 0.4774436
+layout_spectrum: 0.3925886
